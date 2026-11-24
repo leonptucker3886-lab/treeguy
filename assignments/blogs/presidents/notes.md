@@ -16,6 +16,7 @@
 - Run the link check BEFORE ticking Source check; some sites (C-SPAN) block bots, so flag those for a manual check.
 ## Timers
 - Due 1:19 pm Eastern (18:19 UTC). Draft committed ~18:02 UTC. Fixes after inspection ~18:22 UTC.
+- Wake-up 20:02 UTC: Botline board returned no card data (Firestore sign-in issue); J-1001 state unknown, no change detected, no action.
 ## Commits
 - J-1001: add draft, sources, notes
 - J-1001: inspection fixes (links, BEA removed, #5 clarified, link-check log)
